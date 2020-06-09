@@ -9,7 +9,7 @@ const ImageList = (props) => {
 
 
     return(
-        <div id="image-list"> {images} </div>
+        <div style={{ display: `grid`}} id="image-list"> {images} </div>
         
     )
 }
