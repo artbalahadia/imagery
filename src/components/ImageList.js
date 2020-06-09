@@ -9,7 +9,7 @@ const ImageList = (props) => {
 
 
     return(
-        <div className="image-list"> {images} </div>
+        <div id="image-list"> {images} </div>
         
     )
 }
