@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/artbalahadia/imagery/static/css/main.42b0a323.chunk.css",
-    "main.js": "/artbalahadia/imagery/static/js/main.e5d0a737.chunk.js",
-    "main.js.map": "/artbalahadia/imagery/static/js/main.e5d0a737.chunk.js.map",
-    "runtime-main.js": "/artbalahadia/imagery/static/js/runtime-main.0ae74ed0.js",
-    "runtime-main.js.map": "/artbalahadia/imagery/static/js/runtime-main.0ae74ed0.js.map",
-    "static/js/2.b8d27544.chunk.js": "/artbalahadia/imagery/static/js/2.b8d27544.chunk.js",
-    "static/js/2.b8d27544.chunk.js.map": "/artbalahadia/imagery/static/js/2.b8d27544.chunk.js.map",
-    "index.html": "/artbalahadia/imagery/index.html",
-    "precache-manifest.1849b992d0cce7e731430587acfaa74b.js": "/artbalahadia/imagery/precache-manifest.1849b992d0cce7e731430587acfaa74b.js",
-    "service-worker.js": "/artbalahadia/imagery/service-worker.js",
-    "static/css/main.42b0a323.chunk.css.map": "/artbalahadia/imagery/static/css/main.42b0a323.chunk.css.map",
-    "static/js/2.b8d27544.chunk.js.LICENSE.txt": "/artbalahadia/imagery/static/js/2.b8d27544.chunk.js.LICENSE.txt"
+    "main.css": "/imagery/static/css/main.42b0a323.chunk.css",
+    "main.js": "/imagery/static/js/main.e5d0a737.chunk.js",
+    "main.js.map": "/imagery/static/js/main.e5d0a737.chunk.js.map",
+    "runtime-main.js": "/imagery/static/js/runtime-main.a590aeda.js",
+    "runtime-main.js.map": "/imagery/static/js/runtime-main.a590aeda.js.map",
+    "static/js/2.b8d27544.chunk.js": "/imagery/static/js/2.b8d27544.chunk.js",
+    "static/js/2.b8d27544.chunk.js.map": "/imagery/static/js/2.b8d27544.chunk.js.map",
+    "index.html": "/imagery/index.html",
+    "precache-manifest.38f1f9af5376d23586dbf78f0d0c4929.js": "/imagery/precache-manifest.38f1f9af5376d23586dbf78f0d0c4929.js",
+    "service-worker.js": "/imagery/service-worker.js",
+    "static/css/main.42b0a323.chunk.css.map": "/imagery/static/css/main.42b0a323.chunk.css.map",
+    "static/js/2.b8d27544.chunk.js.LICENSE.txt": "/imagery/static/js/2.b8d27544.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0ae74ed0.js",
+    "static/js/runtime-main.a590aeda.js",
     "static/js/2.b8d27544.chunk.js",
     "static/css/main.42b0a323.chunk.css",
     "static/js/main.e5d0a737.chunk.js"
