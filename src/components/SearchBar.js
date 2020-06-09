@@ -1,4 +1,5 @@
 import React from 'react';
+import '../styles/SearchBar.css';
 
 class SearchBar extends React.Component {
     // // Method to observe user input
@@ -21,8 +22,8 @@ class SearchBar extends React.Component {
             <div className="ui segment">
                 <form className="ui form" onSubmit={this.onFormSubmit}>
                     <div className="field">
-                        <label>Imagery</label>
-                        <input type="text" placeholder="Anything you want to see today?" 
+                        <header>Imagery</header>
+                        <input id="input" type="text" placeholder="Search for the top 10 trending images today!" 
                             value={this.state.input}
                             onChange={ (e) => this.setState({ input: e.target.value }) }
                             />
